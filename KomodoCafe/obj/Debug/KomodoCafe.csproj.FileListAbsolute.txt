@@ -1,0 +1,7 @@
+E:\Goldbadge\Challenge applications\KomodoCafe\obj\Debug\KomodoCafe.csproj.AssemblyReference.cache
+E:\Goldbadge\Challenge applications\KomodoCafe\obj\Debug\KomodoCafe.csproj.CoreCompileInputs.cache
+E:\Goldbadge\Challenge applications\KomodoCafe\bin\Debug\KomodoCafe.exe.config
+E:\Goldbadge\Challenge applications\KomodoCafe\bin\Debug\KomodoCafe.exe
+E:\Goldbadge\Challenge applications\KomodoCafe\bin\Debug\KomodoCafe.pdb
+E:\Goldbadge\Challenge applications\KomodoCafe\obj\Debug\KomodoCafe.exe
+E:\Goldbadge\Challenge applications\KomodoCafe\obj\Debug\KomodoCafe.pdb
