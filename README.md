@@ -1,4 +1,6 @@
 KOMODO CAFE
+
+
 The Komodo Cafe is getting a new menu. 
 
 The cafe manager at Komodo wants to be able to create a menu item, delete a menu item,
